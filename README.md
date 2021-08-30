@@ -4,3 +4,4 @@
 3. Adventure Game
 4. Rock Paper Scissors
 5. Self Driving Turtle
+6. Weather Report
